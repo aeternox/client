@@ -2,8 +2,17 @@ git-filter-repo
 .gitattributes
 .gitignore
 
-opensetup.ini
+Navigationdata/
 ScreenShot/
+GameGuard/
 savedata/
+Replay/
 Emblem/
+data/
+memo/
 _tmpEmblem/
+opensetup.ini
+server.dat
+
+# ignoring data.grf as it will now be taken somewhere else
+data.grf
